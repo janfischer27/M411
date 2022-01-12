@@ -1,0 +1,7 @@
+﻿  Aufgabe08.cpp
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Aufgabe08\Aufgabe08.cpp(13,28): error C2143: Syntaxfehler: Es fehlt ")" vor ";"
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Aufgabe08\Aufgabe08.cpp(13,31): error C2065: "pText": nichtdeklarierter Bezeichner
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Aufgabe08\Aufgabe08.cpp(13,46): error C2065: "pText": nichtdeklarierter Bezeichner
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Aufgabe08\Aufgabe08.cpp(13,54): error C2059: Syntaxfehler: ")"
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Aufgabe08\Aufgabe08.cpp(14,10): error C2065: "pText": nichtdeklarierter Bezeichner
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Aufgabe08\Aufgabe08.cpp(15,19): error C2065: "pText": nichtdeklarierter Bezeichner

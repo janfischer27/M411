@@ -1,0 +1,4 @@
+﻿  Aufg6.cpp
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B03_Pointer\Aufgabe6\Aufg6.cpp(7,12): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B03_Pointer\Aufgabe6\Aufg6.cpp(19,10): warning C4477: "printf": Die Formatzeichenfolge "%c" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "char *" auf.
+  Aufgabe6.vcxproj -> C:\Users\vmadmin\source\repos\M_411_Kaufmann\B03_Pointer\Debug\Aufgabe6.exe

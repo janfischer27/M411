@@ -1,0 +1,4 @@
+﻿  Beispiel02.cpp
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Beispiel02\Beispiel02.cpp(6,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Beispiel02\Beispiel02.cpp(16,3): error C2562: "main": "void"-Funktion gibt einen Wert zurück
+C:\Users\vmadmin\source\repos\M_411_Kaufmann\B04_Arrays\Beispiel02\Beispiel02.cpp(5): message : Siehe Deklaration von "main"

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (IPT3_B03.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Aufgabe01.cpp
+C:\Users\vmadmin\source\repos\IPT3_B03\IPT3_B03\Aufgabe01.cpp(21,11): error C2143: Syntaxfehler: Es fehlt ";" vor "+="
+C:\Users\vmadmin\source\repos\IPT3_B03\IPT3_B03\Aufgabe01.cpp(23,10): warning C4477: "printf": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int", das variadic-Argument "2" weist aber den Typ "int *" auf.
